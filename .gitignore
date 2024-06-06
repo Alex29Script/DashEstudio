@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Carpetas
+DatasetsScriptsPlotlyDash/
+
 # Distribution / packaging
 .Python
 build/
